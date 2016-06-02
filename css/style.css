@@ -94,10 +94,10 @@ margin-right: 30.001px;
 }
 
 
-h1 {
+#h1 {
 
    font-family: Nexa,  Helvetica, Sans-Serif;
-   font-size 300px;
+   font-size 3em;
    text-shadow: 4px 4px red;
    text-align: center;
    background-color: #ff9900;
@@ -119,6 +119,7 @@ h2 {
 p {
 
 	font-size: 2em;
+	color: white;
 	padding:0;
 	margin-right: 3% ;
 	margin-left: 3%;
